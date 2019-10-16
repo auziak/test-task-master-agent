@@ -1,0 +1,17 @@
+{
+  "name": "master-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "client": "nodemon agent"
+  },
+  "keywords": [],
+  "author": "Andrii Auziak",
+  "license": "ISC",
+  "dependencies": {
+    "google-search-results-nodejs": "^1.3.0",
+    "nodemon": "^1.19.3",
+    "socket.io": "^2.3.0"
+  }
+}
